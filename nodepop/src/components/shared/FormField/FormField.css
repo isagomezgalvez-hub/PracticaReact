@@ -1,0 +1,25 @@
+
+.formField-input {
+    background-color: rgb(245, 248, 250);
+    font-size: 20px;
+    height: 36px;
+    border: none;
+    padding: 2px 10px 5px 10px;
+    width: 100%;
+    color: rgb(101, 119, 134);
+    transition: all 0.2s;
+    font-size: 1rem;
+}
+
+.formField-label span {
+  padding: 5px 10px 0 10px;
+}
+
+.formField-label span:first-letter {
+  text-transform: capitalize;
+}
+
+.formField--focused .formField-label {
+  color: rgb(29, 161, 242);
+
+}

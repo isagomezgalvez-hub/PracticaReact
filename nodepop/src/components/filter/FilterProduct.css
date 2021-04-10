@@ -1,0 +1,15 @@
+
+.filter{
+	display:flex;
+    width: 100%;
+	justify-content: center;
+	text-align: left;
+   
+}
+
+.BoxFilter {
+       margin: 0.5rem;
+    display: inline-block;
+    padding: 10px;
+}
+

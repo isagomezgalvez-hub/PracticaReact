@@ -1,0 +1,24 @@
+.header {
+  align-items: center;
+  display: flex;
+}
+
+.header-nav {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+.navbar{
+  width: 100%;
+}
+.navbar-item{
+  color: black;
+}
+.header-button {
+  width: 144px;
+  margin-left: 10px;
+}
+.selected{
+      background-color: #fafafa;
+    color: #3273dc;
+}
